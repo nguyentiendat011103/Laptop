@@ -1,7 +1,6 @@
 package com.example.laptop.Dto.Request.Withdrawal;
 
 import com.example.laptop.Util.Enum.WithdrawalStatus;
-import lombok.*;
 import lombok.experimental.FieldDefaults;
 
 import java.math.BigDecimal;
